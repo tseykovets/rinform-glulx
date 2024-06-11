@@ -2,7 +2,7 @@
 !
 !  RussiaG:  Grammar table entries for the standard verbs library.
 !  Russian version
-!  Encoding: CP1251
+!  Source encoding: UTF-8 without BOM
 !
 !  Supplied for use with Inform 6 Release 6/11
 !
