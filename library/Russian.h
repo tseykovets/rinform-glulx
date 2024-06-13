@@ -1,6 +1,7 @@
 ! ===========================================================================
 !
 !   RUSSIAN: Language Definition File for Inform 6
+!   Source encoding: UTF-8 without BOM
 !
 !   Copyright (C) Grankin Andrey 2002, Gayev Denis 2003-2004
 !                 Vsevolod Zubarev 2010-2018

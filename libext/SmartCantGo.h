@@ -169,7 +169,7 @@ Default CANTGO_TO      "to ";
 Default CANTGO_THROUGH "through ";
 #Endif;
 
-#Ifdef  LIBRARY_RUSSIAN;    ! Uses Windows Cyrillic CP 1251
+#Ifdef  LIBRARY_RUSSIAN;    ! Uses Unicode UTF-8 without BOM
 Default CANTGO_NOEXITS "Отсюда не заметно ни одного выхода.";
 Default CANTGO_PREFIX  "Вы можете идти только ";
 #Endif;
